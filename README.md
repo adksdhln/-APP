@@ -1,2 +1,3 @@
 # -APP
 一个根据用户偏好、天气、预算推荐本地活动，支持组队出发、打卡记录、攻略分享的APP
+https://qrz5yg.csb.app/#explore
